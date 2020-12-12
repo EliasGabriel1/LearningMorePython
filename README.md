@@ -13,10 +13,12 @@ Geralmente, a ciência de dados pode ser utilizada para melhorar o desempenho de
 Saber a quantidade de dados produzirá resultados importantes, portanto, podemos entender que os dados produzirão um poder tremendo.
 
 
+#Pandas:
+Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais. É software livre sob a licensa licença BSD.
 
 
-Pandas: 
 
 Numpy:
+
 
 matplotlib:
