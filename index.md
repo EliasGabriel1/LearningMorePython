@@ -18,7 +18,7 @@ Saber a quantidade de dados produzirá resultados importantes, portanto, podemos
 Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais. É software livre sob a licensa licença BSD.
 
 
-Explicando de maneira simples como pandas funciona, cito coisas sobre no notbook que tem <a href="https://github.com/EliasGabriel1/ProjetoUmBrasilMelhor/blob/main/BasicoPandas.ipynb"> aqui no github  </a>
+Explicando de maneira simples como pandas funciona, cito coisas sobre no notbook que tem aqui no github clique <a href="https://github.com/EliasGabriel1/ProjetoUmBrasilMelhor/blob/main/BasicoPandas.ipynb"> aqui </a> para lógica e primeiros passos de lógica no pandas, e <a href="https://github.com/EliasGabriel1/ProjetoUmBrasilMelhor/blob/main/B%C3%A1sicoPandas2.ipynb">  aqui</a>, com o uso do pandas com mais funções, ja usando dados de uma df de 6422 rows, e <a href=""> aqui</a> eu concluo todas funções básicas do pandas</a>.
 
 
 #Numpy:
