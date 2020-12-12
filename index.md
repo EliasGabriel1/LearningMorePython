@@ -28,4 +28,19 @@ Pandas é uma biblioteca de software criada para a linguagem Python para manipul
 
 
 
-###@Feito por :Elias Gabriel| Dev junior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### @Feito por :Elias Gabriel| Dev junior.
