@@ -1,1 +1,7 @@
 # ProjetoUmBrasilMelhor
+
+Pandas: 
+
+Numpy:
+
+matplotlib:
