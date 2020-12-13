@@ -1,4 +1,4 @@
-## aprender sobre bibliotecas
+## learning about libraries
 De maneiras simples, o mundo de hoje é cercado por acontecimentos, pensamentos, ações e coisas que gera dinheiro, e todos os dados sub escritos sobre essas coisas, podemos manipular, mexer, analisar e plotar esses dados.
 O termo foi criado para se referir ao fenômeno de big data sendo gerado a uma taxa alarmante. Analistas estimam que a quantidade de dados gerados globalmente dobra a cada dois anos. Os dados são gerados para cada troca de informações, como preenchimento de cadastros, transações e pesquisas.
 
